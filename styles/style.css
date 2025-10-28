@@ -245,7 +245,7 @@ ol {
   text-transform: uppercase;
 }
 
-.content__list {
+.content__list-container {
   block-size: 298px;
   overflow-y: auto;
   overflow-x: hidden;
